@@ -1,0 +1,65 @@
+body {
+  font-family: 'Indie Flower', cursive;
+}
+
+input {
+  min-width: 100px;
+}
+
+.container {
+  margin: 0 10%;
+}
+
+.mainHeader {
+  text-align: center;
+}
+
+.mainHeader h1 {
+  font-size: 4em;
+  font-weight: bold;
+  margin: 0px;
+  margin-bottom: 5px;
+}
+
+.mainHeader h3 {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.mainHeader h4 {
+  font-size: 10px;
+}
+
+.leftInnerContainer {
+  width: 49%;
+  display: inline-block;
+  float: left;
+}
+
+.rightInnerContainer {
+  width: 49%;
+  display: inline-block;
+  float: right;
+}
+
+.InnerContainer {
+   width: 100%;
+   display: inline-block;
+}
+
+.row {
+  width: 100%;
+  display: inline-block;
+}
+
+.three {
+  width: 30%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.btn {
+  border:1px solid gray;
+  padding: 5px;
+  margin-top: 10px;
+}

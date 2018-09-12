@@ -1,0 +1,24 @@
+{
+  "name": "loremipsumgenerator",
+  "version": "1.0.0",
+  "description": "lorem ipsum generator",
+  "main": "index.js",
+  "dependencies": {
+    "node": "^10.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FAdeniji/loremipsumgenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FAdeniji/loremipsumgenerator/issues"
+  },
+  "homepage": "https://github.com/FAdeniji/loremipsumgenerator#readme"
+}
